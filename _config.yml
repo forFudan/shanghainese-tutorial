@@ -1,8 +1,15 @@
+title: 标准上海话简明教程·朱宇浩著
+description: 标准上海话简明教程·通用吴语拼音教程·朱宇浩·2021年9月版
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-relative-links
+  - jekyll-default-layout
+  
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
   - README.md
@@ -11,5 +18,3 @@ include:
   - CODE_OF_CONDUCT.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-cayman
-title: 标准上海话简明教程·通用吴语拼音教程·朱宇浩·2021年9月版
