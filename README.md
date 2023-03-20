@@ -11,6 +11,10 @@
 
 Citation (APA style): Zhu, Y. (2019). A Tutorial in The Shanghainese Language. Unpublished manuscript. Retrieved from https://www.zhuyuhao.com
 
+## 知乎专栏
+
+本书的各章节同时发布在我的知乎专栏，[点击这里阅读。](https://www.zhihu.com/column/c_1621352649865043968)
+
 ## 版权声明
 
 本人特此声明：
@@ -20,12 +24,6 @@ Citation (APA style): Zhu, Y. (2019). A Tutorial in The Shanghainese Language. U
 朱宇浩
 
 2012年2月18日
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International][CC BY-NC-ND 4.0].
-
-License summary:   https://creativecommons.org/licenses/by-nc-nd/4.0/    
-Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 ## 序
 
