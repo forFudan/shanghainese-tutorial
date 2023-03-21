@@ -2,19 +2,24 @@ title: 标准上海话简明教程·朱宇浩著
 description: 标准上海话简明教程·通用吴语拼音教程·朱宇浩·2021年9月版
 theme: jekyll-theme-cayman
 
-plugins:
-  - jekyll-relative-links
-  - jekyll-default-layout
+# plugins:
+#   - jekyll-relative-links
+#   - jekyll-default-layout
   
-relative_links:
-  enabled: true
-  collections: true
+# relative_links:
+#   enabled: true
+#   collections: true
 
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+# include:
+#   - CONTRIBUTING.md
+#   - README.md
+#   - LICENSE.md
+#   - COPYING.md
+#   - CODE_OF_CONDUCT.md
+#   - ISSUE_TEMPLATE.md
+#   - PULL_REQUEST_TEMPLATE.md
+
+url: https://zhuyuhao.com/shanghainese-tutorial/
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
