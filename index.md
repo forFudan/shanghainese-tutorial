@@ -14,9 +14,9 @@ TOC {:toc}
 
 我在2012年写了《标准上海话简明教程——通用吴语拼音教程》一书，介绍了上海话的音韵体系、声调体系、词汇体系。您可以在此处阅读本书最新版本。
 
-[标准上海话简明教程_通用吴语拼音教程_朱宇浩.pdf](./标准上海话简明教程_通用吴语拼音教程_朱宇浩.pdf)
+[标准上海话简明教程_通用吴语拼音教程_朱宇浩.pdf](https://github.com/forFudan/shanghainese-tutorial)
 
-Citation (APA style): Zhu, Y. (2019). A Tutorial in The Shanghainese Language. Unpublished manuscript. Retrieved from https://www.zhuyuhao.com
+> Citation (APA style): Zhu, Y. (2019). A Tutorial in The Shanghainese Language. Unpublished manuscript. Retrieved from https://www.zhuyuhao.com
 
 ## 知乎专栏
 
